@@ -89,7 +89,5 @@ Abra http://localhost:3000 e use **Explorar com dados de demonstração** ou **C
 
 ---
 
-## 👥 Equipe
-
 Projeto desenvolvido em equipe durante o Hackathon Equatorial (EQT Lab).
 
