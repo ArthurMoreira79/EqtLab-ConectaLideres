@@ -93,7 +93,3 @@ Abra http://localhost:3000 e use **Explorar com dados de demonstração** ou **C
 
 Projeto desenvolvido em equipe durante o Hackathon Equatorial (EQT Lab).
 
-| Nome | GitHub |
-|---|---|
-| Arthur Moreira Lucena | [@ArthurMoreira79](https://github.com/ArthurMoreira79) |
-| Vinícius Campos | [@nicius2](https://github.com/nicius2) |
